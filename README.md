@@ -7,27 +7,27 @@
 
 ## Algorithms Included
 
-### Bubble Sort (bubble.js):
+#### Bubble Sort (bubble.js):
 
 - Compares and swaps adjacent elements if they are in the wrong order.
 
-### Insertion Sort (insertion.js):
+#### Insertion Sort (insertion.js):
 
 - Builds the final sorted array one item at a time by placing each new element into the correct position.
 
-### Selection Sort (selection.js):
+#### Selection Sort (selection.js):
 
 - Improves on bubble sort by making only one exchange for every pass through the list.
 
-### Merge Sort (merge.js):
+#### Merge Sort (merge.js):
 
 - A divide and conquer algorithm that divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.
 
-### Quick Sort (quick.js):
+#### Quick Sort (quick.js):
 
 - Selects a pivot element and partitions the array around the pivot, recursively sorting the subarrays.
 
-### Radix Sort (radix.js):
+#### Radix Sort (radix.js):
 
 - Sorts integers by processing individual digits.
 
